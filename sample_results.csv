@@ -1,0 +1,4 @@
+studentId,examId,score,correctAnswers,totalQuestions
+student1001,exam010,10,1,10
+student1002,exam010,30,3,10
+student1003,exam010,20,2,10
