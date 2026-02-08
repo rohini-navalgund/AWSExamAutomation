@@ -33,7 +33,6 @@ This project covers core AWS services through questions and answers in the autom
 - **Amazon Glacier** – Archival storage
 - **Amazon Lightsail** – Simplified cloud servers
 
-> 💡 This demonstrates understanding of multiple AWS core services that recruiters look for in cloud internships and fresher roles.
 
 ---
 
