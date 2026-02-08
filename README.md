@@ -1,27 +1,45 @@
-<<<<<<< HEAD
 # AWS Exam Automation
 
-This is a Python-based **AWS Exam Automation platform**.  
-It allows creating exams, adding questions, taking exams, submitting answers, and generating results automatically using AWS serverless APIs.
+## Overview
+**AWS Exam Automation** is a Python-based project that simulates an AWS cloud exam platform.  
+It allows creating exams, adding questions, taking exams, submitting answers, and fetching results automatically via APIs.  
+The project is fully automated, requires no frontend, and demonstrates core AWS knowledge through practical scenarios.
+
+---
 
 ## Features
+- Create exams with custom titles and IDs
+- Add multiple-choice questions to exams
+- Simulate student exam attempts
+- Automatic answer submission
+- Fetch and save exam results as CSV
+- Fully Python-based automation
 
-- Create exams programmatically
-- Add multiple questions with options
-- Take exams for multiple students automatically
-- Submit answers and calculate scores
-- Export results to CSV (`sample_results.csv`)
+---
 
-## Requirements
+## AWS Services Simulated / Covered
+This project covers core AWS services through questions and answers in the automation:
 
-- Python 3.13+
-- `requests` library
-- `pandas` library
+- **AWS Lambda** – Serverless compute
+- **Amazon EC2** – Virtual servers
+- **Amazon S3** – Object storage
+- **Amazon RDS / Aurora** – Managed relational database
+- **Amazon Route 53** – DNS routing
+- **Amazon CloudFront** – Content Delivery Network (CDN)
+- **Amazon DynamoDB** – NoSQL database
+- **Amazon EBS / EFS / FSx** – Storage services
+- **Amazon VPC** – Networking and isolation
+- **AWS API Gateway** – API management
+- **Amazon Glacier** – Archival storage
+- **Amazon Lightsail** – Simplified cloud servers
 
-Install dependencies:
+> 💡 This demonstrates understanding of multiple AWS core services that recruiters look for in cloud internships and fresher roles.
 
+---
+
+## Installation
+
+1. Clone this repository:
 ```bash
-pip install -r requirements.txt
-=======
-# AWSExamAutomation
->>>>>>> b7a7b170e5c2d8cd650a2d45cd81c76602e4ae0c
+git clone https://github.com/rohini-navalgund/AWSExamAutomation.git
+cd AWSExamAutomation
