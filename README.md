@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Exam Automation
 
 This is a Python-based **AWS Exam Automation platform**.  
@@ -21,3 +22,6 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+=======
+# AWSExamAutomation
+>>>>>>> b7a7b170e5c2d8cd650a2d45cd81c76602e4ae0c
