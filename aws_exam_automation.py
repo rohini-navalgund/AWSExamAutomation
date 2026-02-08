@@ -1,7 +1,7 @@
 
 """
 AWS Cloud Exam Automation - Fully Automated
-Author: Your Name
+Author: Rohini Navalagund
 Date: 2026-02-07
 Description:
 - Create exams
